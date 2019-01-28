@@ -1,4 +1,5 @@
-Ingredients:lmao
+Ingredients:ayy lmao
+>>>>>>> origin/master
  - 2 pounds ground beef
  - 2 cloves garlic, chopped
  - One 8-ounce can tomato sauce
